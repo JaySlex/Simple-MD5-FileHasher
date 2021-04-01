@@ -6,4 +6,4 @@ Press enter.
 ![image](https://user-images.githubusercontent.com/50266396/113231617-a147f100-9269-11eb-9f76-2ac417a3a67c.png)
 And here you got, you got the ouput.json with your files hashs.
 ![image](https://user-images.githubusercontent.com/50266396/113231658-b9b80b80-9269-11eb-9049-c5f27219ed31.png)
-
+In the new update, you can now replace the root folder with a domain name.
